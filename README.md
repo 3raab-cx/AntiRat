@@ -1,5 +1,7 @@
 # 🛡️ AntiRat Tool V2.0 – Ultimate Protection
 
+![AntiRat](AntiRat.png)
+
 Welcome to the most **advanced** anti-RAT tool built to **detect, disable, and eliminate** remote threats with unmatched precision.
 
 > **"Stronger than Windows Defender. Smarter than any RAT."**
@@ -50,3 +52,4 @@ Welcome to the most **advanced** anti-RAT tool built to **detect, disable, and e
 ---
 
 🔥 **Eliminate Remote Threats. Take Control. Use AntiRat V2.0.** 🔥
+
