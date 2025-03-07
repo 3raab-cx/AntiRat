@@ -44,7 +44,7 @@ Welcome to the most **advanced** anti-RAT tool built to **detect, disable, and e
 
 💬 **Join the Community:**  
 - **Discord:** [Secrofence](https://discord.gg/7MG3NSHnnG)  
-- **Telegram:** [Contact Here](https://t.me/al3rab1235)  
+- **Telegram:** [Contact Here](https://t.me/EI3RAB)  
 
 🎥 **Watch on YouTube:**  
 [EI3RAB on YouTube](https://www.youtube.com/@3RAAB/videos)  
